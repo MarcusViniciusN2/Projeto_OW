@@ -1,0 +1,46 @@
+﻿nome;funcao;vida_total;dano_primario_estimado
+Hazard;Tanque;650;7.5
+Mauga;Tanque;725;4.5
+Ramattra;Tanque;450;13
+Rainha Junker;Tanque;450;80
+Doomfist;Tanque;450;50
+D.Va;Tanque;725;0.6
+Reinhardt;Tanque;675;100
+Roadhog;Tanque;700;160
+Sigma;Tanque;550;75
+Winston;Tanque;550;60
+Wrecking Ball;Tanque;700;5
+Zarya;Tanque;475;75
+Orisa;Tanque;550;13
+Vendetta;Dano;250;70
+Freja;Dano;225;85
+Venture;Dano;250;75
+Sojourn;Dano;250;9
+Tracer;Dano;175;5.5
+Genji;Dano;250;27
+Widowmaker;Dano;200;120
+Soldado: 76;Dano;250;19
+Reaper;Dano;300;108
+Hanzo;Dano;250;120
+Sombra;Dano;250;8
+Pharah;Dano;250;120
+Echo;Dano;250;51
+Ashe;Dano;250;75
+Cassidy;Dano;275;70
+Mei;Dano;300;100
+Junkrat;Dano;250;120
+Bastion;Dano;300;25
+Symmetra;Dano;250;60
+Torbjörn;Dano;250;70
+Wuyang;Suporte;250;100
+Juno;Suporte;225;8
+Illari;Suporte;250;75
+Lifeweaver;Suporte;225;6
+Kiriko;Suporte;225;45
+Ana;Suporte;250;70
+Baptiste;Suporte;250;25
+Mercy;Suporte;250;20
+Lúcio;Suporte;250;20
+Moira;Suporte;250;50
+Brigitte;Suporte;250;45
+Zenyatta;Suporte;225;48

@@ -1,0 +1,46 @@
+Nome,Função,Vida Total,Dano Primário (Estimado)
+Hazard,Tanque,650,7.5 por espinho (75 por rajada)
+Mauga,Tanque,725,4.5 por bala
+Ramattra,Tanque,450,13 (Ômnico) / 60 (Nêmesis)
+Rainha Junker,Tanque,450,80 (Escopeta completa)
+Doomfist,Tanque,450,50 (Soco base) / 5 por perdigoto
+D.Va,Tanque,725,0.6 - 2 por perdigoto
+Reinhardt,Tanque,675,100 (Martelo)
+Roadhog,Tanque,700,160 (Disparo ideal)
+Sigma,Tanque,550,75 (Impacto direto)
+Winston,Tanque,550,60 por segundo
+Wrecking Ball,Tanque,700,5 por bala
+Zarya,Tanque,475,75 - 170 por segundo
+Orisa,Tanque,550,13 por bala
+Vendetta,Dano,250,70 (Rifle de precisão)
+Freja,Dano,225,85 (Besta de precisão)
+Venture,Dano,250,75 (Impacto de broca)
+Sojourn,Dano,250,9 por bala / 130 (Railgun carregada)
+Tracer,Dano,175,5.5 por bala
+Genji,Dano,250,27 por shuriken
+Widowmaker,Dano,200,120 (Tiro carregado)
+Soldado: 76,Dano,250,19 por bala
+Reaper,Dano,300,108 (Disparo ideal)
+Hanzo,Dano,250,120 (Flecha carregada)
+Sombra,Dano,250,8 por bala
+Pharah,Dano,250,120 (Impacto direto)
+Echo,Dano,250,51 (Tri-disparo)
+Ashe,Dano,250,75 (Mirado)
+Cassidy,Dano,275,70 por bala
+Mei,Dano,300,100 por segundo / 75 (Icicle)
+Junkrat,Dano,250,120 (Granada direta)
+Bastion,Dano,300,25 (Recon) / 12 (Assalto)
+Symmetra,Dano,250,60 - 180 por segundo
+Torbjörn,Dano,250,70 por rebite
+Wuyang,Suporte,250,100 (Orbe de água carregado)
+Juno,Suporte,225,8 por projétil
+Illari,Suporte,250,75 (Rifle solar carregado)
+Lifeweaver,Suporte,225,6 por espinho
+Kiriko,Suporte,225,45 (112.5 crítico)
+Ana,Suporte,250,70 (Dano/Cura por tiro)
+Baptiste,Suporte,250,25 por bala
+Mercy,Suporte,250,20 por bala (Pistola)
+Lúcio,Suporte,250,20 por projétil
+Moira,Suporte,250,50 por segundo
+Brigitte,Suporte,250,45 (Mangual)
+Zenyatta,Suporte,225,48 por orbe
