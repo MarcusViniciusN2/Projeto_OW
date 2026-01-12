@@ -1,0 +1,13 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Executáveis
+
+*.exe
+
+*.csv
