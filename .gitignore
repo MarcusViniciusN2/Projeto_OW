@@ -1,13 +1,16 @@
-# Ambiente virtual
+# Ambiente Python
 venv/
-.venv/
-
-# Python
 __pycache__/
-*.pyc
 
-# Executáveis
-
+# Binários
 *.exe
+
+# SQLite
+*.db
+*.sqlite
+
+# Sistema
+.DS_Store
+Thumbs.db
 
 *.csv
