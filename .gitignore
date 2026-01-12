@@ -1,0 +1,16 @@
+# Ambiente Python
+venv/
+__pycache__/
+
+# Binários
+*.exe
+
+# SQLite
+*.db
+*.sqlite
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+*.csv
