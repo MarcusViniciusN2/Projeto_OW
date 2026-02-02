@@ -1,17 +1,11 @@
-
-WITH tb_rn AS (
+WITH tb_rankvida AS (
     SELECT *,
-
-    row_number() OVER (PARTITION BY funcao ORDER BY vida_total DESC) AS vidarank
+           RANK() OVER (PARTITION BY funcao ORDER BY vida_total DESC) AS vidarank
     FROM hero_info
 )
 
 SELECT *
+FROM tb_rankvida
 
-FROM tb_rn
-
-WHERE vidarank = 1
-
-
-
+WHERE vidarank = 1;
 
